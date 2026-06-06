@@ -1,0 +1,26 @@
+Package & IndexTest Jaccard & IndexTest Returns & Returns Jaccard & SameFile IndexTest & SameFile Jaccard & SameFile Returns & 
+stream-http & 0.641 & 0.552 & 0.7 & 0.896 & 0.915 & 0.8 & 
+string.prototype.padend & 0.667 & 0.552 & 0.0 & 0.824 & 0.778 & 0.7 & 
+stringstream & 0.5 & 0.674 & 0.5 & 0.63 & 0.739 & 0.5 & 
+tarjan-graph & 0.5 & 0.5 & 0.0 & 0.52 & 0.52 & 0.667 & 
+tcomb & 0.871 & 0.969 & 0.735 & 0.936 & 0.921 & 0.946 & 
+thingies & 0.333 & 0.5 & 0.5 & 0.5 & 0.5 & 0.0 & 
+timers-browserify & 0.333 & 0.5 & 0.583 & 0.65 & 0.6 & 0.722 & 
+tiny-inflate & 0.5 & 0.593 & 0.583 & 0.625 & 0.61 & 0.59 & 
+tlhunter-sorted-set & 0.586 & 0.846 & 0.954 & 0.598 & 0.595 & 0.592 & 
+to-array & 1.0 & 0.571 & 0.667 & 0.5 & 0.333 & 0.4 & 
+toposort & 0.556 & 0.444 & 0.333 & 0.571 & 0.556 & 0.5 & 
+typed-array-byte-offset & 0.704 & 0.72 & 0.667 & 0.606 & 0.143 & 0.15 & 
+unbzip2-stream & 0.5 & 1.0 & 0.5 & 0.923 & 0.913 & 0.923 & 
+url-parse & 0.569 & 0.901 & 0.759 & 0.541 & 0.543 & 0.513 & 
+util-deprecate & 0.5 & 0.5 & 0.667 & 0.667 & 0.5 & 0.667 & 
+validate.io-function & 0.833 & 0.778 & 0.8 & 0.667 & 0.429 & 0.0 & 
+vm-browserify & 0.5 & 0.667 & 0.4 & 0.8 & 0.8 & 0.714 & 
+walkdir & 0.562 & 0.444 & 0.333 & 0.979 & 0.979 & 1.0 & 
+walker & 0.4 & 0.571 & 1.0 & 0.722 & 0.706 & 0.5 & 
+warning & 0.579 & 0.688 & 0.385 & 0.611 & 0.625 & 0.5 & 
+webpack-node-externals & 0.737 & 0.792 & 0.601 & 0.669 & 0.657 & 0.724 & 
+wrappy & 0.222 & 0.3 & 0.8 & 0.529 & 0.5 & 0.429 & 
+xml-name-validaton & 0.0 & 0.667 & 0.455 & 0.636 & 0.167 & 0.667 & 
+Total Mean & 0.548 & 0.64 & 0.562 & 0.678 & 0.61 & 0.574 & 
+Total Median & 0.556 & 0.593 & 0.583 & 0.636 & 0.6 & 0.592 & 
